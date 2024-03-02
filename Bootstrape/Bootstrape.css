@@ -1,0 +1,17 @@
+h1{
+    background-color: aqua;
+    color: rgb(226, 132, 9);
+
+}
+nav{
+    background-color: rgba(242, 238, 245, 0.301);
+
+}
+.mb-3{
+    padding-left: 1%;
+    font-size: x-small;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: left;
+    text-emphasis-color: rgb(151, 151, 199);
+
+}
