@@ -1,0 +1,38 @@
+#container1{
+    margin: 50px;
+    text-align: center;
+    font-size: x-large;
+}
+
+form{
+    margin-bottom: 60px;
+    font-size: xx-large;
+}
+button{
+    width: 5%;
+    font-size: x-large;
+    background-color: green;
+    color: white;
+    margin: 8px;
+    border: none;
+    cursor: pointer;
+
+}
+#task{
+    width: 20%;
+    margin: 6px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+}
+li{
+    background-color: aliceblue;
+    padding: 10px;
+    margin-bottom: 10px ;
+
+}
+ul{
+    list-style: none;
+}
+.done{
+    text-decoration: line-through;
+}
